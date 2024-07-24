@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3_PTTKTT\PhamBaTriet_Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.exe.config
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3_PTTKTT\PhamBaTriet_Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.exe
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3_PTTKTT\PhamBaTriet_Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\bin\Debug\TimKiemNhiPhan.pdb
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3_PTTKTT\PhamBaTriet_Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3_PTTKTT\PhamBaTriet_Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.exe
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3_PTTKTT\PhamBaTriet_Buoi3\TimKiemNhiPhan\TimKiemNhiPhan\TimKiemNhiPhan\obj\Debug\TimKiemNhiPhan.pdb

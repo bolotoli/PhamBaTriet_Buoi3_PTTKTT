@@ -1,0 +1,6 @@
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3\TinhTongMang\TinhTongMang\TinhTongMang\bin\Debug\TinhTongMang.exe.config
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3\TinhTongMang\TinhTongMang\TinhTongMang\bin\Debug\TinhTongMang.exe
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3\TinhTongMang\TinhTongMang\TinhTongMang\bin\Debug\TinhTongMang.pdb
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3\TinhTongMang\TinhTongMang\TinhTongMang\obj\Debug\TinhTongMang.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3\TinhTongMang\TinhTongMang\TinhTongMang\obj\Debug\TinhTongMang.exe
+E:\LuuDuLieuSinhVien\PhamBaTriet_Buoi3\TinhTongMang\TinhTongMang\TinhTongMang\obj\Debug\TinhTongMang.pdb
